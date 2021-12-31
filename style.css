@@ -1,0 +1,66 @@
+form{
+    padding: 2% 3% 0% 3%;
+   
+}
+
+.container{
+    background-color: rgb(243, 243, 243);
+    border-radius: 7px;
+    margin: 30px;    
+    margin-left: 50px; 
+    margin-right: 50px; 
+    border:1px solid;
+
+    
+}
+.heading{
+    background-color: rgb(141, 201, 29);
+    border-radius: 7px;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    
+  
+   
+}
+span{
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 33px;
+}
+
+.contact{
+    font-size: 15px;
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.content{
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#btn{
+    border-style: none;
+    background-color: rgb(130, 204, 60);
+    color: white;
+    margin: 10px 0px 25px 20px;
+    /* width: 100%; */
+    border-radius: 4px;
+    font-size: 15px;
+    padding:5px 15px 5px 15px ;
+    font-weight: bold;
+}
+input[type=text]{
+     width: 50%;
+     /* border-radius: 3px; */
+     /* border: 4px; */
+}
+input[type=email]{
+     width:47%;
+     /* border: 5%; */
+    /* border-radius: 4px; */
+}
+#btn:hover{
+    color: black;
+    cursor:pointer;
+    font-size: 16px;
+}
